@@ -2,5 +2,7 @@ Welcome to my GitHub Data Science Portfolio! This repository showcases my case-s
 
 
 Table of Contents:
+
+
  I. Poverty Levels and Marijuana Use Case Study
 
