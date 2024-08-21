@@ -19,7 +19,7 @@ This repository showcases my case studies emphasizing my data science and analyt
 # II. Cyclistic Case Study R
   Cyclistic, a hypothetical and fictitious bike-share company is at the core of this analysis. I, a hypothetical junior data analyst, uncover consumer insights.
 
-# III. Travels timeline Plotly.html
+# III. Travels Timeline Plotly
 I use Plotly in Python to visualize memorable travels.
 
 Thank you for stopping by! Feel free to browse through individual case studies and connect through  [Linkedin](https://www.linkedin.com/in/angeline-diongson-6190821a6/) for feedback, questions, or if you would like to expand your social network!
