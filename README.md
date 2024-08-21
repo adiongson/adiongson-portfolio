@@ -1,6 +1,6 @@
 # Angeline Diongson's Data Analytics Portfolio 
 
-Welcome to my GitHub Data Science Portfolio! 
+Welcome to my GitHub Data Analytics Portfolio! 
 
 ![Angy's Portfolio](angy'sportfolio.png)
 
