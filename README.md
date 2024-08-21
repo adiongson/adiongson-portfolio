@@ -7,6 +7,8 @@ This repository showcases my case-studies emphasizing my data science and analyt
 Table of Contents:
 
 
- I. Poverty Levels and Marijuana Use Case Study
+ I. Cannabis Use and Poverty Levels 
+
+ 
  II. Cyclistic Case Study 
 
