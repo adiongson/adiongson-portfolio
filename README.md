@@ -11,18 +11,12 @@ This repository showcases my case studies emphasizing my data science and analyt
 # Table of Contents:
 
 # I. Cannabis Use and Poverty Levels
- 
-    I investigated if there was a link betweeen lower poverty levels and increased cannabis use; having seen an increased amount of cannabis dispensaries in my state since legaization.
+ I investigated if there was a link betweeen lower poverty levels and increased cannabis use; having seen an increased amount of cannabis dispensaries in my state since legaization.
  
 # II. Cyclistic Case Study R
- 
-    Cyclistic, a hypothetical and fictitious bike-share company is at the core of this analysis. I, a hypothetical junior data analyst, uncover consumer insights.
+  Cyclistic, a hypothetical and fictitious bike-share company is at the core of this analysis. I, a hypothetical junior data analyst, uncover consumer insights.
 
 # III. Travels timeline Plotly.html
-
-
-
-
-    I use Plotly in Python to visualize memorable travels.
+I use Plotly in Python to visualize memorable travels.
 
 Thank you for stopping by! Feel free to browse through individual case studies and connect through  [Linkedin](https://www.linkedin.com/in/angeline-diongson-6190821a6/) for feedback, questions, or if you would like to expand your social network!
