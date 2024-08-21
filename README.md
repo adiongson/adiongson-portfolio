@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Data Science Portfolio! 
 
-![Angy's Portfolio](./assets/angy'sportfolio.png)
+![Angy's Portfolio](.[/assets/angy'sportfolio.png](https://github.com/adiongson/adiongson-portfolio/blob/main/angy'sportfolio.png))
 
 
 This repository showcases my case studies emphasizing my data science and analytics using programming such as R and visualization tools like Tableau! Here's to curiosity and building more. Cheers!
