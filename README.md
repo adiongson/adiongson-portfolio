@@ -22,4 +22,8 @@ This repository showcases my case studies emphasizing my data science and analyt
 # III. Travels Timeline Plotly
 I use Plotly in Python to visualize memorable travels.
 
+
+# IV. Accenture Social Buzz Case Study
+I provide data analytics insight through visualization on Google Sheets for Social Buzz on user metrics and preference.
+
 Thank you for stopping by! Feel free to browse through individual case studies and connect through  [Linkedin](https://www.linkedin.com/in/angeline-diongson-6190821a6/) for feedback, questions, or if you would like to expand your social network!
