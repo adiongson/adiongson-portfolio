@@ -12,6 +12,7 @@ This repository showcases my case studies emphasizing my data science and analyt
  - Cannabis Use and Poverty Levels
  - Cyclistic Case Study R
  - Travels timeline Plotly
+ - Accenture Case Study
 
 # I. Cannabis Use and Poverty Levels
  I investigated if there was a link betweeen lower poverty levels and increased cannabis use; having seen an increased amount of cannabis dispensaries in my state since legaization.
@@ -21,7 +22,6 @@ This repository showcases my case studies emphasizing my data science and analyt
 
 # III. Travels Timeline Plotly
 I use Plotly in Python to visualize memorable travels.
-
 
 # IV. Accenture Social Buzz Case Study
 I provide data analytics insight through visualization on Google Sheets for Social Buzz on user metrics and preference.
