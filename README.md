@@ -1,6 +1,6 @@
 # Angeline Diongson's Portfolio 
 
-Welcome to my GitHub Data Portfolio! 
+Welcome to my GitHub Data Science & Analysis Portfolio! 
 
 ![Angy's Portfolio](adiongson-portfolio)
 
