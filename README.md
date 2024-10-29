@@ -15,10 +15,10 @@ This repository showcases my case studies emphasizing my data science and analyt
  - Accenture Case Study
 
 # I. Cannabis Use and Poverty Levels
- I investigated if there was a link betweeen lower poverty levels and increased cannabis use; having seen an increased amount of cannabis dispensaries in my state since legaization.
+ I investigated if there was a link betweeen lower poverty levels and increased cannabis use; having seen an increased amount of cannabis dispensaries in my state since legalization.
  
 # II. Cyclistic Case Study R
-  Cyclistic, a hypothetical and fictitious bike-share company is at the core of this analysis. I, a hypothetical junior data analyst, uncover consumer insights.
+Cyclistic, a hypothetical and fictitious bike-share company is at the core of this analysis. I, a hypothetical junior data analyst, uncover consumer insights and make recommendations  to drive traffic.
 
 # III. Travels Timeline Plotly
 I use Plotly in Python to visualize memorable travels.
